@@ -1,0 +1,16 @@
+1-what unknown wrong data is there?
+...
+
+2-how will wrong/unknown data be handled?
+...
+
+3-how will Paris data organized? How does this relate to the original data file? how will you determine the duplicate athlete entries?
+...
+
+4-How will you be able to tell if your application was working?
+...
+
+5-Are there specfic records that you can check?
+...
+
+

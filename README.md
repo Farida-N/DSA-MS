@@ -82,9 +82,7 @@ This repository contains all required components for Milestone 1 of the Olympic 
 
 ## 📌 Notes
 
-This is a planning-focused milestone. No full implementation or data processing is expected yet — just structured groundwork for Milestone 2.
-
-If you have any questions or encounter issues, please contact the instructor or use the GitHub Issues feature.
+This is a planning-focused milestone. No full implementation or data processing is expected yet — just structured work for Milestone 2.
 
 ---
 
@@ -97,7 +95,7 @@ If you have any questions or encounter issues, please contact the instructor or 
 | **Problem Identification** (60%) | Detailed and clear problem identification with depth | Identifies key issues, but lacks full detail or clarity | Minimal problem identification; very limited explanation | No problem identification              |
 | **Prototype Completeness** (40%) | Generates **all 5** `new_*.csv` files correctly      | Generates **4 of 5** files with correct headers/columns | Generates **2 or 3** of the 5 required files             | No prototype or unchanged base project |
 
-Submission
+**Submission**
 ______________________________________________________________________________________________________________________________________________________________________________
 Push your prototype project.py (and any other files) into your repo. This will trigger an action
 To see what you will get for Prototype Completeness part of the grade , expand the action and look at the test runner, it will show you what level your solution is sitting at.

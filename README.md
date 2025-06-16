@@ -1,4 +1,4 @@
-# 🏅 Olympic Data Analysis Project 
+# Olympic Data Analysis Project 
 
 ****MS1****
 
@@ -80,12 +80,24 @@ This repository contains all required components for Milestone 1 of the Olympic 
 
 ---
 
-## 📌 Notes
+## Notes
 
-This is a planning-focused milestone. No full implementation or data processing is expected yet — just structured groundwork for Milestone 2.
-
-If you have any questions or encounter issues, please contact the instructor or use the GitHub Issues feature.
+This is a planning-focused milestone. No full implementation or data processing is expected yet — just structured work for Milestone 2.
 
 ---
 
 ** MS2 TO BE ADDED **
+
+## Milestone 1 Grading Criteria
+
+| **Criteria**                     | **Level 3**                                          | **Level 2**                                             | **Level 1**                                              | **Level 0**                            |
+| -------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------- |
+| **Problem Identification** (60%) | Detailed and clear problem identification with depth | Identifies key issues, but lacks full detail or clarity | Minimal problem identification; very limited explanation | No problem identification              |
+| **Prototype Completeness** (40%) | Generates **all 5** `new_*.csv` files correctly      | Generates **4 of 5** files with correct headers/columns | Generates **2 or 3** of the 5 required files             | No prototype or unchanged base project |
+
+**Submission**
+______________________________________________________________________________________________________________________________________________________________________________
+Push your prototype project.py (and any other files) into your repo. This will trigger an action
+To see what you will get for Prototype Completeness part of the grade , expand the action and look at the test runner, it will show you what level your solution is sitting at.
+Note that both MS1 and MS2 testers use the same runner but tested differently. Please make sure to read the correct line for rubric score for MS1
+Submit a link for your group into ms1 submission. The most recent run, submitted before MS1 due date will be used to determine grade. If you are worried, you can delete older runs.

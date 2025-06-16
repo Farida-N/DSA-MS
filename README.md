@@ -1,4 +1,4 @@
-# 🏅 Olympic Data Analysis Project 
+# Olympic Data Analysis Project 
 
 ****MS1****
 
@@ -80,7 +80,7 @@ This repository contains all required components for Milestone 1 of the Olympic 
 
 ---
 
-## 📌 Notes
+## Notes
 
 This is a planning-focused milestone. No full implementation or data processing is expected yet — just structured work for Milestone 2.
 
@@ -88,7 +88,7 @@ This is a planning-focused milestone. No full implementation or data processing 
 
 ** MS2 TO BE ADDED **
 
-## 📈 Milestone 1 Grading Criteria
+## Milestone 1 Grading Criteria
 
 | **Criteria**                     | **Level 3**                                          | **Level 2**                                             | **Level 1**                                              | **Level 0**                            |
 | -------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------- |
